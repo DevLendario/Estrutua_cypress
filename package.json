@@ -1,0 +1,13 @@
+{
+  "name": "cypress-estrutura",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "npm run cypress:run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.0"
+  }
+}
